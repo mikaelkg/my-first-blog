@@ -1,1 +1,1 @@
-text
+curl -d "contents=asddsa" -X POST http://mikaelkg.pythonanywhere.com/
